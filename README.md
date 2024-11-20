@@ -1,5 +1,4 @@
 # Tema_3_Robotica
-Tema 3 este realizata in echipa . Coleg proiect : Filotie Virgil Ionut
 
 # Cerinte :
 
@@ -50,3 +49,5 @@ Fire de legatura
 
 # Videoclip Montaj: 
 https://www.youtube.com/shorts/aiYvDzG09GI
+
+PS:Problema la calcularea scorului + transmiterea din slave in master . (o sa revin cu modificari)
