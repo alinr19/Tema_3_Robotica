@@ -33,17 +33,20 @@ Fiecare jucător va avea butoane și LED-uri proprii, iar jocul se va desfășur
 6x LED-uri (2 grupuri de câte 3 leduri, în cadrul unui grup trebuie să avem culori diferite)
 2x LED RGB (1 pentru fiecare jucător)
 6x butoane (3 pentru fiecare jucător)
-
-# Schema Montaj : 
-![roboticaa_3](https://github.com/user-attachments/assets/0ab6a358-c240-4fae-b100-7d34ed462292)
-
-# Imagine Montaj: 
-
-# Videoclip Montaj: 
-
-
 1x LCD
 1x servomotor
 2x Breadboard
 Fire de legatura
 2x Arduino Uno
+
+# Schema Montaj : 
+![roboticaa_3](https://github.com/user-attachments/assets/0ab6a358-c240-4fae-b100-7d34ed462292)
+
+# Imagine Montaj: 
+![WhatsApp Image 2024-11-20 at 10 58 31](https://github.com/user-attachments/assets/8eff720d-9590-449c-a115-b6fdf595814a)
+![WhatsApp Image 2024-11-20 at 10 58 30](https://github.com/user-attachments/assets/5bf87557-c85d-4d27-ba47-0411cd5a3770)
+![1](https://github.com/user-attachments/assets/8132c5fc-ed1b-4b05-85f9-2f37b3e7b8d3)
+
+
+# Videoclip Montaj: 
+
