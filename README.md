@@ -49,4 +49,4 @@ Fire de legatura
 
 
 # Videoclip Montaj: 
-
+https://www.youtube.com/shorts/aiYvDzG09GI
